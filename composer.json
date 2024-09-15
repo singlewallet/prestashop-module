@@ -1,0 +1,5 @@
+{
+    "require": {
+        "singlewallet/singlewallet-php-sdk": "^1.3"
+    }
+}

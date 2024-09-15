@@ -1,0 +1,42 @@
+{
+    "packages": [
+        {
+            "name": "singlewallet/singlewallet-php-sdk",
+            "version": "1.3.1",
+            "version_normalized": "1.3.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/singlewallet/singlewallet-php-sdk.git",
+                "reference": "e115cd4faa4f392424ed9ef73d404de6b5be6e12"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/singlewallet/singlewallet-php-sdk/zipball/e115cd4faa4f392424ed9ef73d404de6b5be6e12",
+                "reference": "e115cd4faa4f392424ed9ef73d404de6b5be6e12",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*",
+                "ext-json": "*",
+                "php": ">=7.1"
+            },
+            "time": "2024-09-07T16:09:43+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "SingleWallet\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "PHP SingleWallet SDK",
+            "support": {
+                "issues": "https://github.com/singlewallet/singlewallet-php-sdk/issues",
+                "source": "https://github.com/singlewallet/singlewallet-php-sdk/tree/1.3.1"
+            },
+            "install-path": "../singlewallet/singlewallet-php-sdk"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

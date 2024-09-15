@@ -1,0 +1,15 @@
+{
+    "name": "singlewallet/singlewallet-php-sdk",
+    "description": "PHP SingleWallet SDK",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "SingleWallet\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.1",
+        "ext-curl": "*",
+        "ext-json": "*"
+    }
+}
