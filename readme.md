@@ -8,7 +8,7 @@ SingleWallet is cryptocurrency payment service, allows you to accept tether via 
 * PHP >= 7.1
 
 # Installation
-1. Download this zip file
+1. [Download this zip file](https://github.com/singlewallet/prestashop-module/releases/download/1.0.0/singlewallet.zip)
 2. Open Prestashop admin panel 
 and head to **Modules** > **Module Manager**.
 3. Click on **Upload a module** button.
